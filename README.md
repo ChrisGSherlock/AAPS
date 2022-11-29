@@ -1,4 +1,4 @@
-# Code for the Apogee to Apogee Path Sampler (AAPS)
+# The Apogee to Apogee Path Sampler (AAPS)
 
 **Reference**: C. Sherlock, S. Urbas and M. Ludkin: *The Apogee to Apogee Path Sampler*.
 
