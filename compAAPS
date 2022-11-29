@@ -1,0 +1,1 @@
+g++ -o AAPS -I /usr/include/eigen3 test.cpp AAPS.cpp toy_targets.cpp -Wall
