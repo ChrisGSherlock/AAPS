@@ -1,6 +1,6 @@
 # The Apogee to Apogee Path Sampler (AAPS)
 
-**Reference**: C. Sherlock, S. Urbas and M. Ludkin: *The Apogee to Apogee Path Sampler* [arXiv](https://arxiv.org/abs/2112.08187).
+**Reference**: C. Sherlock, S. Urbas and M. Ludkin: *The Apogee to Apogee Path Sampler*. | [arXiv](https://arxiv.org/abs/2112.08187)
 
 You will need the C++ library `Eigen` installed.
 
