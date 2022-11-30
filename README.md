@@ -1,6 +1,6 @@
 # The Apogee to Apogee Path Sampler (AAPS)
 
-**Reference**: C. Sherlock, S. Urbas and M. Ludkin: *The Apogee to Apogee Path Sampler*.
+**Reference**: C. Sherlock, S. Urbas and M. Ludkin: *The Apogee to Apogee Path Sampler* [arXiv](https://arxiv.org/abs/2112.08187).
 
 You will need the C++ library `Eigen` installed.
 
@@ -8,7 +8,7 @@ To compile: in the AAPS directory type
 
 `./compAAPS`
 
-Type
+you may need to edit `compAAPS` if `Eigen` is installed elsewhere on your machine. Type
 
 `./AAPS`
 
@@ -16,7 +16,7 @@ to see the options. For example, to run on the 10d test target for 10000 iterati
 
 `./AAPS 0 10000 1000 1 0 3 1.2 5`
 
-Output appears in the `Output` directory.
+Output appears in the `Output` directory; if this directory does not exist you will need to create it. 
 
 To run for 10^4 iterations, printing output every 10^3, on a 40d logistic target with eccentricity of 20 using jittered scale parameters spaced approximately linearly between 1 and 20 with epsilon=1.2 and K=10 use
 
